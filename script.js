@@ -18,3 +18,8 @@ alert( result );
 alert( 0 == false );
 
 
+
+if (year == 2015) {
+    alert( "That's correct!" );
+    alert( "You're so smart!" );
+    }
